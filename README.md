@@ -69,9 +69,9 @@ Figma
 ```
 
 # OUTPUT:
-![alt text](../438287598-ac837990-930a-4cb5-b5e0-998fe94d828c.png)
-![alt text](../438287737-a01b4ce9-cc2b-4be9-bb4e-96b84980655d.png)
-![alt text](../438287789-4d5c88c5-8103-42a3-b65a-c655df86c5b3.png)
-![alt text](../438287846-a51bfff9-569a-4619-8d85-78fe3acbf9b1.png)
+![alt text](page1.png)
+![alt text](page2.png)
+![alt text](page3.png)
+![alt text](page4.png)
 # RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
